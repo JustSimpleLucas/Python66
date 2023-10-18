@@ -1,0 +1,301 @@
+﻿No,Name,Type,Country
+1,ZK-383  ,Submachine Gun  ,Czechoslovakia 
+2,ZH-29  ,Rifle  ,Czechoslovakia  
+3,ZB-60  ,Machine Gun  ,Czechoslovakia  
+4,ZB-53 vz. 37  ,Machine Gun  ,Czechoslovakia  
+5,ZB vz. 26  ,Machine Gun  ,Czechoslovakia  
+6,ZB vz. 24  ,Rifle  ,Czechoslovakia  
+7,Winchester Model 1912  ,Shotgun  ,United States  
+8,Winchester Model 1897  ,Shotgun  ,United States  
+9,Webley Mk IV  ,Handgun  ,United Kingdom  
+10,Walther P38  ,Handgun  ,Germany  
+11,Vis  ,Handgun  ,Poland  
+12,Vickers-Berthier  ,Machine Gun  ,United Kingdom  
+13,Vickers K  ,Machine Gun  ,United Kingdom  
+14,Vickers Gun  ,Machine Gun  ,United Kingdom  
+15,TZ-45  ,Submachine Gun  ,Italy  
+16,Type 99  ,Machine Gun  ,Japan  
+17,Type 97  ,Machine Gun  ,Japan  
+18,Type 97  ,Anti-Tank Rifle  ,Japan  
+19,Type 96 15 cm Howitzer  ,Field Gun  ,Japan  
+20,Type 96  ,Machine Gun  ,Japan  
+21,Type 95 75 mm  ,Field Gun  ,Japan  
+22,Type 94 75 mm  ,Field Gun  ,Japan  
+23,Type 94 37 mm  ,Anti-Tank Gun  ,Japan  
+24,Type 94  ,Handgun  ,Japan  
+25,Type 92 Battalion Gun  ,Field Gun  ,Japan  
+26,Type 92 10 cm Cannon  ,Field Gun  ,Japan  
+27,Type 92  ,Machine Gun  ,Japan  
+28,Type 91 40 mm  ,Anti-Aircraft Gun  ,Japan  
+29,Type 91 105 mm Howitzer  ,Field Gun  ,Japan  
+30,Type 89 15 cm Cannon  ,Field Gun  ,Japan  
+31,Type 88 75 mm  ,Anti-Aircraft Gun  ,Japan  
+32,Type 5 15 cm AA  ,Anti-Aircraft Gun  ,Japan  
+33,Type 45 24 cm Howitzer  ,Field Gun  ,Japan  
+34,Type 41 75 mm Regimental Gun  ,Field Gun  ,Japan  
+35,Type 4 75 mm  ,Anti-Aircraft Gun  ,Japan  
+36,Type 38 75 mm  ,Field Gun  ,Japan  
+37,Type 3 8 cm  ,Anti-Aircraft Gun  ,Japan  
+38,Type 3 120 mm  ,Coastal Defense Gun  ,Japan  
+39,Type 3 12 cm  ,Anti-Aircraft Gun  ,Japan  
+40,Type 26  ,Handgun  ,Japan  
+41,Type 14 10 cm Cannon  ,Field Gun  ,Japan  
+42,Type 14 10 cm AA  ,Anti-Aircraft Gun  ,Japan  
+43,Type 14  ,Handgun  ,Japan  
+44,Type 11 75 mm  ,Anti-Aircraft Gun  ,Japan  
+45,Type 11 37 mm  ,Field Gun  ,Japan  
+46,Type 11  ,Machine Gun  ,Japan  
+47,Type 100  ,Submachine Gun  ,Japan  
+48,Type 10 120 mm  ,Anti-Aircraft Gun  ,Japan  
+49,Type 1 47 mm  ,Anti-Tank Gun  ,Japan  
+50,Type 1 37 mm  ,Anti-Tank Gun  ,Japan  
+51,Type 04  ,Handgun  ,Japan  
+52,Tokarev TT-33  ,Handgun  ,Russia  
+53,Tokarev SVT-40  ,Rifle  ,Russia  
+54,Thompson  ,Submachine Gun  ,United States  
+55,Sturmgewehr 44  ,Rifle  ,Germany  
+56,Steyr-Mannlicher M1895  ,Rifle  ,Austria  
+57,Steyr M1912  ,Handgun  ,Austria  
+58,Sten  ,Submachine Gun  ,United Kingdom  
+59,St. Étienne Mle 1907  ,Machine Gun  ,France  
+60,Springfield M1903  ,Rifle  ,United States  
+61,Solothurn S-18/100  ,Anti-Tank Rifle  ,Switzerland  
+62,Smith & Wesson M1917  ,Handgun  ,United States  
+63,Simonov PTRS-41  ,Anti-Tank Rifle  ,Russia  
+64,SG-43 Goryunov  ,Machine Gun  ,Russia  
+65,Schwarzlose MG M.07/12  ,Machine Gun  ,Austria  
+66,Sauer 38H  ,Handgun  ,Germany  
+67,Ross  ,Rifle  ,Philippines  
+68,PPSh-41  ,Submachine Gun  ,Russia  
+69,PPS  ,Submachine Gun  ,Russia  
+70,PPD  ,Submachine Gun  ,Russia  
+71,Parabellum P08 'Luger'  ,Handgun  ,Germany  
+72,Panzerbüchse 39  ,Anti-Tank Rifle  ,Germany  
+73,Panzerbüchse 38  ,Anti-Tank Rifle  ,Germany  
+74,Owen Machine Carbine  ,Submachine Gun  ,Australia  
+75,OVP  ,Submachine Gun  ,Italy  
+76,Ordnance QF 6-pounder 7 cwt  ,Field Gun  ,United Kingdom  
+77,Ordnance QF 4.5 inch Howitzer  ,Field Gun  ,United Kingdom  
+78,Ordnance QF 3.7 inch Mountain Howitzer  ,Field Gun  ,United Kingdom  
+79,Ordnance QF 25 pounder  ,Field Gun  ,United Kingdom  
+80,Ordnance QF 2 pounder  ,Anti-Tank Gun  ,United Kingdom  
+81,Nagant M1895  ,Handgun  ,Russia  
+82,Murata  ,Rifle  ,Japan  
+83,MP 40  ,Submachine Gun  ,Germany  
+84,MP 35  ,Submachine Gun  ,Germany  
+85,MP 34  ,Submachine Gun  ,Austria  
+86,Mosin-Nagant  ,Rifle  ,Russia  
+87,MG 42  ,Machine Gun  ,Germany  
+88,MG 34  ,Machine Gun  ,Germany  
+89,MG 15  ,Machine Gun  ,Germany  
+90,MG 13  ,Machine Gun  ,Germany  
+91,MG 08  ,Machine Gun  ,Germany  
+92,Maxim M1910  ,Machine Gun  ,Russia  
+93,Mauser Kar98k  ,Rifle  ,Germany  
+94,Mauser C96  ,Handgun  ,Germany  
+95,MAS M1935S  ,Handgun  ,France  
+96,MAS M1935A  ,Handgun  ,France  
+97,Mannlicher-Schönauer M1903  ,Rifle  ,Austria  
+98,Madsen  ,Machine Gun  ,Denmark  
+99,M50 Reising  ,Submachine Gun  ,United States  
+100,M4 Survival  ,Rifle  ,United States  
+101,M3 'Grease Gun'  ,Submachine Gun  ,United States  
+102,M20  ,Recoilless Gun  ,United States  
+103,M2 Howitzer  ,Field Gun  ,United States  
+104,M18  ,Recoilless Gun  ,United States  
+105,M1 Garand  ,Rifle  ,United States  
+106,M1 Carbine  ,Rifle  ,United States  
+107,Lewis  ,Machine Gun  ,United Kingdom  
+108,Lee-Enfield No. 5  ,Rifle  ,United Kingdom  
+109,Lee-Enfield No. 4  ,Rifle  ,United Kingdom  
+110,Lebel M1892  ,Handgun  ,France  
+111,Lanchester  ,Submachine Gun  ,United Kingdom  
+112,Lahti-Saloranta M/26  ,Machine Gun  ,Finland  
+113,Krag-Jørgensen  ,Rifle  ,Norway  
+114,KP/-31  ,Submachine Gun  ,Finland  
+115,Kg m/40  ,Machine Gun  ,Sweden  
+116,KE-7  ,Machine Gun  ,Switzerland  
+117,Karabin przeciwpancerny wzór 35  ,Anti-Tank Rifle  ,Poland  
+118,K4  ,Field Gun  ,Czechoslovakia  
+119,Johnson M1941  ,Rifle  ,United States  
+120,Johnson  ,Machine Gun  ,United States  
+121,Hotchkiss 13.2 mm  ,Machine Gun  ,France  
+122,Hanyang Type 88  ,Rifle  ,China  
+123,Glisenti M1910  ,Handgun  ,Italy  
+124,Gilsenti M1910  ,Handgun  ,Italy  
+125,Gewehr 98  ,Rifle  ,Germany  
+126,Gewehr 43  ,Rifle  ,Germany  
+127,Gewehr 41  ,Rifle  ,Germany  
+128,FNAB-43  ,Submachine Gun  ,Italy  
+129,FN M1910  ,Handgun  ,Belgium  
+130,FM 24/29  ,Machine Gun  ,France  
+131,Fiat-Revelli M1935  ,Machine Gun  ,Italy  
+132,FG 42  ,Rifle  ,Germany  
+133,Enfield No. 2  ,Handgun  ,United Kingdom  
+134,EMP  ,Submachine Gun  ,Germany  
+135,Ehrhardt 7.5 cm Model 1901  ,Field Gun  ,Norway  
+136,DShK M1938  ,Machine Gun  ,Russia  
+137,Degtyaryov PTRD-41  ,Anti-Tank Rifle  ,Russia  
+138,Degtyaryov Pekhotny 'DP'  ,Machine Gun  ,Russia  
+139,De Lisle Carbine  ,Rifle  ,United Kingdom  
+140,Danuvia 39M  ,Submachine Gun  ,Hungary  
+141,CZ vzor 38  ,Handgun  ,Czechoslovakia  
+142,Colt M1917  ,Handgun  ,United States  
+143,Colt M1911A1  ,Handgun  ,United States  
+144,Carcano M1938  ,Rifle  ,Italy  
+145,Carcano M1891  ,Rifle  ,Italy  
+146,Canon de 85 modèle 1927 Schneider  ,Field Gun  ,France  
+147,Canon de 75 modèle 1897  ,Field Gun  ,France  
+148,Canon de 75 M modèle 1928  ,Field Gun  ,France  
+149,Canon de 75 M modèle 1919 Schneider  ,Field Gun  ,France  
+150,Canon de 75 CA modèle 1940 Schneider  ,Anti-Aircraft Gun  ,France  
+151,Canon de 155 C modèle 1917 Schneider  ,Field Gun  ,France  
+152,Canon de 105 modèle 1930 Schneider  ,Field Gun  ,France  
+153,Cannone da 90/53  ,Anti-Aircraft Gun  ,Italy  
+154,Cannone da 75/46  ,Anti-Aircraft Gun  ,Italy  
+155,Cannone da 75/27 modello 12  ,Field Gun  ,Italy  
+156,Cannone da 75/27 modello 06  ,Field Gun  ,Italy  
+157,Cannone da 149/40  ,Field Gun  ,Italy  
+158,Cannone da 149/35 A  ,Field Gun  ,Italy  
+159,Browning M2  ,Machine Gun  ,United States  
+160,Browning M1919  ,Machine Gun  ,United States  
+161,Browning M1917  ,Machine Gun  ,United States  
+162,Browning Hi-Power  ,Handgun  ,Belgium  
+163,Browning Automatic Rifle M1918 'BAR'  ,Machine Gun  ,United States  
+164,Bren  ,Machine Gun  ,United Kingdom  
+165,Breda Model 37  ,Machine Gun  ,Italy  
+166,Breda Model 35  ,Anti-Aircraft Gun  ,Italy  
+167,Breda Model 30  ,Machine Gun  ,Italy  
+168,Boys  ,Anti-Tank Rifle  ,United Kingdom  
+169,Bodeo M1889  ,Handgun  ,Italy  
+170,Blyskawica  ,Submachine Gun  ,Poland  
+171,BL 9.2 inch Mk X  ,Coastal Defense Gun  ,United Kingdom  
+172,BL 4.5 inch Medium  ,Field Gun  ,United Kingdom  
+173,BL 15 in Mk I  ,Coastal Defense Gun  ,United Kingdom  
+174,Berthier  ,Rifle  ,France  
+175,Beretta M1938  ,Submachine Gun  ,Italy  
+176,Beretta M1935  ,Handgun  ,Italy  
+177,Beretta M1934  ,Handgun  ,Italy  
+178,Beretta M1918  ,Submachine Gun  ,Italy  
+179,AVS-36  ,Rifle  ,Russia  
+180,Austen  ,Submachine Gun  ,Australia  
+181,Arisaka Type 99  ,Rifle  ,Japan  
+182,Arisaka Type 44  ,Rifle  ,Japan  
+183,Arisaka Type 38  ,Rifle  ,Japan  
+184,95 mm Mk 1  ,Recoilless Gun  ,United Kingdom  
+185,90 mm M2  ,Anti-Aircraft Gun  ,United States  
+186,8H63  ,Anti-Tank Gun  ,Germany  
+187,85 mm M1944 (KS-18)  ,Anti-Aircraft Gun  ,Russia  
+188,85 mm M1939 (52-K)  ,Anti-Aircraft Gun  ,Russia  
+189,80 mm Mod 99  ,Anti-Aircraft Gun  ,Japan  
+190,80 cm Gustav  ,Railway Gun  ,Germany  
+191,8.8 cm PaK 43  ,Anti-Tank Gun  ,Germany  
+192,8.8 cm FlaK 41  ,Anti-Aircraft Gun  ,Germany  
+193,8.8 cm FlaK 18/36/37  ,Anti-Aircraft Gun  ,Germany  
+194,8 inch Howitzer M1  ,Field Gun  ,United States  
+195,8 inch Gun M1  ,Field Gun  ,United States  
+196,8 in Mk VI  ,Coastal Defense Gun  ,United States  
+197,76 mm Regimental Gun M1927  ,Field Gun  ,Russia  
+198,76 mm M1938  ,Anti-Aircraft Gun  ,Russia  
+199,76 mm Divisional Gun M1942 (ZiS-3)  ,Field Gun  ,Russia  
+200,76 mm Divisional Gun M1939 (F-22 USV)  ,Field Gun  ,Russia  
+201,76 mm Divisional Gun M1936 (F-22)  ,Field Gun  ,Russia  
+202,75 mm Schneider-Danglis 06/09  ,Field Gun  ,Greece  
+203,75 mm Mod 38  ,Anti-Aircraft Gun  ,Italy  
+204,75 mm Mod 37  ,Field Gun  ,Italy  
+205,75 mm How M2  ,Field Gun  ,United States  
+206,75 mm How M1  ,Field Gun  ,United States  
+207,7.5 cm PaK 41  ,Anti-Tank Gun  ,Germany  
+208,7.5 cm PaK 40  ,Anti-Tank Gun  ,Germany  
+209,7.5 cm Leichtgeschütz 40  ,Recoilless Gun  ,Germany  
+210,7.5 cm le.IG 18  ,Field Gun  ,Germany  
+211,7.5 cm Infanteriegeschütz 42  ,Field Gun  ,Germany  
+212,7.5 cm Gebirgsgeschütz 36  ,Field Gun  ,Germany  
+213,7.5 cm Feldkanone 7M85  ,Field Gun  ,Germany  
+214,7.5 cm Feldkanone 38  ,Field Gun  ,Germany  
+215,7.5 cm Feldkanone 18  ,Field Gun  ,Germany  
+216,7.5 cm Feldkanone 16 neuer Art  ,Field Gun  ,Germany  
+217,7.2 in How Mk 6  ,Field Gun  ,United Kingdom  
+218,7.2 in How Mk 6  ,Anti-Aircraft Gun  ,United Kingdom  
+219,6 pdr Twin  ,Coastal Defense Gun  ,United Kingdom  
+220,6 in Mk 24  ,Coastal Defense Gun  ,United Kingdom  
+221,6 in M1  ,Coastal Defense Gun  ,United States  
+222,57 mm Anti-Tank Gun M1943 (ZiS-2)  ,Anti-Tank Gun  ,Russia  
+223,50 mm Flak 41  ,Anti-Aircraft Gun  ,Germany  
+224,5.5 in Gun  ,Field Gun  ,United Kingdom  
+225,5 cm PaK 38  ,Anti-Tank Gun  ,Germany  
+226,45 mm M1942 (M-42)  ,Anti-Tank Gun  ,Russia  
+227,410 mm How  ,Field Gun  ,Japan  
+228,40.6 cm Schnelladekanone C/34 Adolf  ,Coastal Defense Gun  ,Germany  
+229,40 mm Bofors  ,Anti-Aircraft Gun  ,Sweden  
+230,4.5 in Mk 2  ,Anti-Aircraft Gun  ,United Kingdom  
+231,4.2 cm PaK 41  ,Anti-Tank Gun  ,Germany  
+232,38 cm Siegfried Kanone  ,Coastal Defense Gun  ,Germany  
+233,37 mm M1939 (61-K)  ,Anti-Aircraft Gun  ,Russia  
+234,37 mm M1  ,Anti-Aircraft Gun  ,United States  
+235,37 mm Gun M3  ,Anti-Tank Gun  ,United States  
+236,3.7 in Mk 6  ,Anti-Aircraft Gun  ,United Kingdom  
+237,3.7 in Mk 1  ,Anti-Aircraft Gun  ,United Kingdom  
+238,3.7 in Mk 1  ,Recoilless Gun  ,United Kingdom  
+239,3.7 cm PaK 36  ,Anti-Tank Gun  ,Germany  
+240,3.7 cm Flak 18/36/37/43  ,Anti-Aircraft Gun  ,Germany  
+241,3.45 in RCL Mk 1  ,Recoilless Gun  ,United Kingdom  
+242,3 in M3  ,Anti-Aircraft Gun  ,United States  
+243,3 in 20 cwt  ,Anti-Aircraft Gun  ,United Kingdom  
+244,28 cm SK L/50  ,Coastal Defense Gun  ,Germany  
+245,28 cm schwere Bruno Kanone (E)  ,Railway Gun  ,Germany  
+246,28 cm K5 (E)  ,Railway Gun  ,Germany  
+247,25 mm Hotchkiss  ,Anti-Aircraft Gun  ,France  
+248,240 mm Howitzer M1  ,Field Gun  ,United States  
+249,24 cm Schnelladekanone Theodor Karl  ,Railway Gun  ,Germany  
+250,24 cm K 3  ,Field Gun  ,Germany  
+251,210 mm Mod 35  ,Field Gun  ,Italy  
+252,210 mm Gun M1939  ,Field Gun  ,Russia  
+253,21 cm Mrs 18  ,Field Gun  ,Germany  
+254,21 cm Kanone 38  ,Field Gun  ,Germany  
+255,21 cm K 12 (E)  ,Railway Gun  ,Germany  
+256,203 mm Howitzer M1931 (B-4)  ,Field Gun  ,Russia  
+257,20 mm S5-106  ,Anti-Aircraft Gun  ,Switzerland  
+258,20 mm Oerlikon  ,Anti-Aircraft Gun  ,Switzerland  
+259,20 mm AA Machine Cannon M/38  ,Field Gun  ,Denmark  
+260,2.8 cm schwere Panzerbüchse 41  ,Anti-Tank Gun  ,Germany  
+261,2 cm Flugabwehrkanone/Gebirgsflak/Flakvierling 38  ,Anti-Aircraft Gun  ,Germany  
+262,17 cm SK L/40  ,Coastal Defense Gun  ,Germany  
+263,17 cm Kanone 18  ,Field Gun  ,Germany  
+264,16 in M1919  ,Coastal Defense Gun  ,United States  
+265,155 mm Howitzer M1  ,Field Gun  ,United States  
+266,155 mm Gun M1  ,Field Gun  ,United States  
+267,155 mm GPF  ,Field Gun  ,France  
+268,152 mm Howitzer M1938 (M-10)  ,Field Gun  ,Russia  
+269,152 mm Gun M1935 (Br-2)  ,Field Gun  ,Russia  
+270,15 cm Tbts C/36  ,Coastal Defense Gun  ,Germany  
+271,15 cm SK C/28  ,Coastal Defense Gun  ,Germany  
+272,15 cm schweres Infanterie Geschütz 33  ,Field Gun  ,Germany  
+273,15 cm schwere Feldhaubitze 18  ,Field Gun  ,Germany  
+274,15 cm schwere Feldhaubitze 13  ,Field Gun  ,Germany  
+275,15 cm Kanone in Eisenbahnlafette  ,Railway Gun  ,Germany  
+276,15 cm Kanone 18  ,Field Gun  ,Germany  
+277,149 mm How Mod 20  ,Field Gun  ,Italy  
+278,14 in M1910  ,Coastal Defense Gun  ,United States  
+279,122 mm Howitzer M1938 (M-30)  ,Field Gun  ,Russia  
+280,122 mm Howitzer M1910/30  ,Field Gun  ,Russia  
+281,122 mm Howitzer M1909/37  ,Field Gun  ,Russia  
+282,122 mm Corps Gun M1931/37 (A-19)  ,Field Gun  ,Russia  
+283,120 mm Gun M1  ,Anti-Aircraft Gun  ,United States  
+284,12.8 cm FlaK 40  ,Anti-Aircraft Gun  ,Germany  
+285,12 in Mor M1912  ,Coastal Defense Gun  ,United States  
+286,12 in Gun M1917  ,Coastal Defense Gun  ,United States  
+287,105 mm Mod 42  ,Field Gun  ,Italy  
+288,105 mm M3  ,Anti-Aircraft Gun  ,United States  
+289,105 mm Howitzer M3  ,Field Gun  ,United States  
+290,102 mm Mod 38  ,Anti-Aircraft Gun  ,Italy  
+291,10.5 cm SK L/60  ,Coastal Defense Gun  ,Germany  
+292,10.5 cm sK 18  ,Field Gun  ,Germany  
+293,10.5 cm Leichtgeschütz 42  ,Recoilless Gun  ,Germany  
+294,10.5 cm Leichtgeschütz 40  ,Recoilless Gun  ,Germany  
+295,10.5 cm leFH 18  ,Field Gun  ,Germany  
+296,10.5 cm leFH 16  ,Field Gun  ,Germany  
+297,10.5 cm Kanone 17  ,Field Gun  ,Germany  
+298,10.5 cm hrubý kanon vz. 35  ,Field Gun  ,Czechoslovakia  
+299,10.5 cm Geb H 40  ,Field Gun  ,Germany  
+300,10.5 cm FlaK 38  ,Anti-Aircraft Gun  ,Germany  
